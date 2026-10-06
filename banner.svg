@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Luis Felipe — Analista de Sistemas</title><desc id="desc">Sistemas, integrações e dados. Banner azul escuro com linhas de arquitetura e detalhes verdes.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081423"/><stop offset="1" stop-color="#12304c"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#28445e" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)" opacity=".4"/>
+<rect x="56" y="53" width="5" height="229" rx="2" fill="#52e0b4"/>
+<text x="85" y="81" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#52e0b4" letter-spacing="4">SISTEMAS • INTEGRAÇÕES • DADOS</text>
+<text x="82" y="154" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#f0f6fc">Luis Felipe</text>
+<text x="85" y="201" font-family="Segoe UI,Arial,sans-serif" font-size="28" fill="#a9c5dd">Analista de Sistemas</text>
+<text x="85" y="257" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#a9c5dd">Transformando processos em soluções.</text>
+<g fill="none" stroke="#52e0b4" stroke-width="2"><path d="M823 98H960V167H1060M823 244H960V167"/><rect x="740" y="62" width="130" height="72" rx="12" fill="#0d2337"/><rect x="740" y="208" width="130" height="72" rx="12" fill="#0d2337"/><rect x="1010" y="130" width="130" height="72" rx="12" fill="#0d2337"/><circle cx="960" cy="167" r="6" fill="#52e0b4"/></g>
+<g font-family="Consolas,monospace" font-size="18" fill="#f0f6fc" text-anchor="middle"><text x="805" y="105">SISTEMAS</text><text x="805" y="251">DADOS</text><text x="1075" y="173">API</text></g></svg>
