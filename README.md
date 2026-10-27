@@ -1,21 +1,13 @@
-<p align="center"><img src="banner.svg" alt="Luis Felipe — Analista de Sistemas" width="100%"></p>
+# Luis Felipe
 
-<p align="center">
-<a href="https://www.linkedin.com/in/luisfelipeeg1/">LinkedIn</a> &nbsp;•&nbsp;
-<a href="https://www.luisfelipegn.com/">Portfólio</a> &nbsp;•&nbsp;
-<a href="https://github.com/jovemfelpitos/luisfelipegn/tree/main/portfolio">Todos os projetos</a>
-</p>
+Analista de Sistemas. Trabalho com sistemas internos, integrações e automação de processos.
 
-### Olá, sou o Luis Felipe.
+`Python` · `PHP` · `JavaScript` · `SQL` · `Linux` · `Git`
 
-Analista de Sistemas. Desenvolvo **sistemas internos, integrações e automações** que conectam processos e dados.
+### Projetos
 
-**Python · PHP · JavaScript · SQL · APIs REST**
+- [CRM interno](https://github.com/jovemfelpitos/internal-crm-case-study) — autenticação, permissões e auditoria.
+- [Governança de leads](https://github.com/jovemfelpitos/lead-governance-case-study) — tratamento de dados e integração via API.
+- [Central SMS](https://github.com/jovemfelpitos/luisfelipegn/tree/main/portfolio/cases/sms-operations) — integração de eventos e gestão de atendimentos.
 
-### Projetos em destaque
-
-- [CRM interno](https://github.com/jovemfelpitos/internal-crm-case-study) — Gestão de clientes, permissões e auditoria.
-- [Governança de leads](https://github.com/jovemfelpitos/lead-governance-case-study) — Qualidade de dados e integração de processos.
-- [Central SMS](https://github.com/jovemfelpitos/luisfelipegn/tree/main/portfolio/cases/sms-operations) — Integrações e operação de atendimento.
-
-[Explore os demais projetos e estudos de caso →](https://github.com/jovemfelpitos/luisfelipegn/tree/main/portfolio)
+[Outros projetos](https://github.com/jovemfelpitos/luisfelipegn/tree/main/portfolio) · [LinkedIn](https://www.linkedin.com/in/luisfelipeeg1/) · [Site](https://www.luisfelipegn.com/)
